@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samarth93
-- 👀 I’m interested in ...AI
-- 🌱 I’m currently learning ...FLUTTER
+- 👀 I’m interested in ...WEB DEVLOPMENT
+- 🌱 I’m currently learning ...JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
