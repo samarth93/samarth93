@@ -1,6 +1,6 @@
 👋 Hello, I'm Samarth!
 
-🎓 I'm a fourth-year Computer Science student at SRM University, with a strong focus on Java development. Over the past 1.5 years, I've honed my skills in Spring Boot, working on various projects, including building complex APIs and large-scale applications.
+🎓 I'm a recent graduated student in Computer Science from SRM University, with a strong focus on Java development. Over the past 1.5 years, I've honed my skills in Spring Boot, working on various projects, including building complex APIs and large-scale applications.
 
 💼 My professional experience includes working as a Java Developer and Database Specialist at SourceBow Technologies, where I contributed to developing large-scale e-commerce websites. Additionally, I have experience in DevOps and am expanding my knowledge in AWS DevOps and ServiceNow.
 
